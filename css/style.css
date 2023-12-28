@@ -11,8 +11,18 @@
 }
 .contact-form
 {
-    padding: 20px 250px;
+    
     color: #fff;
 
 
 }
+nav a:hover
+{
+    background-color: #2196f3;
+    color: #fff;
+}
+.degree
+{
+    font-weight: 500;
+}
+

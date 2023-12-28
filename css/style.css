@@ -25,4 +25,8 @@ nav a:hover
 {
     font-weight: 500;
 }
+footer p
+{
+    width: 100%;
+}
 

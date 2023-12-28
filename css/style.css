@@ -1,0 +1,18 @@
+.banner
+{
+    background-image: url(../images/images\ \(3\).jpeg);
+    padding: 230px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skills
+{
+    padding: 70px 0;
+}
+.contact-form
+{
+    padding: 20px 250px;
+    color: #fff;
+
+
+}

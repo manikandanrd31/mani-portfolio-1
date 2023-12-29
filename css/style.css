@@ -1,6 +1,6 @@
 .banner
 {
-    background-image: url(../images/images\ \(3\).jpeg);
+    background-image: url(../images/images\ \(7\).jpeg);
     padding: 230px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -21,6 +21,7 @@ nav a:hover
     background-color: #2196f3;
     color: #fff;
 }
+
 .degree
 {
     font-weight: 500;

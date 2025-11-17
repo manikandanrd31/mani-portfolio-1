@@ -1,6 +1,6 @@
 .banner
 {
-    background-image: url(../images/images\ \(8\).jpeg);
+    background-image: url(/images/IMG_20231229_115140.png);
     padding: 230px 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,8 +26,5 @@ nav a:hover
 {
     font-weight: 500;
 }
-footer p
-{
-    width: 100%;
-}
+
 
